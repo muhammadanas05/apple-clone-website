@@ -1,0 +1,49 @@
+#nav a {
+    color: white;
+}
+#nav a:hover {
+    background-color: white;
+    color: black;
+    border-radius: 5px 5px 5px 5px;
+}
+#nav a:active{
+    color: gray;
+}
+#nav a:focus {
+    color: blue;
+}
+.navbar-nav li {
+    padding-left: 50px;
+    padding-right: 30px;
+}
+.navbar-brand {
+    margin-left: 20px;
+    margin-top: -8px;
+}
+@media screen and (max-width: 600px) {
+    .navbar-nav a {
+      margin-right: auto;
+      margin-left: auto;
+      text-align: center;
+    }
+}
+footer {
+    background-color: rgb(52, 58, 64);
+    padding-bottom: 20px;
+    padding-top: 20px;
+    color: white;
+}
+footer ul {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+#link a {
+    
+    color: white;
+}
+#link li {
+    list-style-type: none;
+}
+
+

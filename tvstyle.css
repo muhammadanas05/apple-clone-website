@@ -1,0 +1,141 @@
+.carousel-item img
+{
+ height: 100%;
+ width: 100%;   
+ height: 550px;
+}
+
+.tvl{
+    height: 120px;
+    margin-top: 150px;
+    
+
+}
+.h2tv{
+    margin-top: 20px;
+
+}
+.h1tv{
+    margin-top: 20px;
+    font-size: 70px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;"
+}
+.p4{
+    height: 12vh;
+    color: white;
+    background-color: black;
+}
+.p5{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 10px;
+    font-size: 15px;
+}
+.p5 li {
+    list-style-type: none;
+    border-left: 1px solid white;
+    border-right: 1px solid white;
+    padding: 3px;
+}
+.p5 a{
+    text-decoration: none;
+    color: white;
+}
+.anc
+{
+color: white;
+font-size: 20px;
+
+}
+.remote
+{
+margin-top: 110px;
+
+}
+.para{
+    margin-top: 10px;
+    color: white;
+    font-size: 20px;
+}
+.lava{
+    margin-top: 40px;
+}
+.h3tv{
+    margin-top: 50px;
+    font-size: 60px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 
+    Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: black;
+}
+.Border{
+    border: 1px solid white;
+    padding: 20px;
+    background: #f2f3f5;
+}
+.row h1, p,a{
+    text-align: center;
+
+}
+.tvpara {
+font-size: 25px;
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 
+Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+margin-top: 50px;
+
+}
+.mr{
+    margin-top: 50px;
+}
+.cardi{
+    background-color: #0a0a0a;
+    color: white;
+}
+.carm{
+    margin-top: 70px;
+}
+.font{
+    font-size: 50px;
+}
+.t4{
+    margin-left: 70px;
+}
+.t5{
+    margin-left: 70px;
+}
+.s8{
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 35px;
+}
+.all{
+    background-color: #0e0f0f;
+}
+.all h1{
+    text-align: center;
+    font-size: 70px;
+    font-weight: bold;
+    color: white;
+}
+.all h3{
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+}
+.right h2{
+    font-size: 50px;
+    font-weight: bold;
+    margin-left: 90px;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 15px;
+  }

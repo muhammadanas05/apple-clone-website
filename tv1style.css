@@ -1,0 +1,83 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+nav {
+    height: 9vh;
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+    position: sticky;
+    top: 0;
+}
+.p1{
+    display: flex;
+    justify-content: space-around;
+    width: 50%;
+    font-family: 'Lato', sans-serif;
+}
+.p1 li {
+    list-style-type: none;
+}
+.p1 a{
+    text-decoration: none;
+    color: white;
+}
+.p4{
+    height: 12vh;
+    color: white;
+    background-color: black;
+}
+.p5{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 5px;
+    
+}
+.p5 li {
+    list-style-type: none;
+    border-left: 1px solid white;
+    border-right: 1px solid white;
+}
+.p5 a{
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+}
+
+.text{
+    text-align: center;
+    margin-top: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.box{
+    width: 300px;
+    height: 400px;
+    display: flex;
+    padding: 70px;
+    margin-left: 20%;
+    
+
+}
+.box1, .box2{
+    padding: 40px;
+    border: 1px solid black;
+    height: 400px;
+    background: rgba(229, 236, 234, 0.596);
+}
+.box1{
+    margin-right: 70%;
+}
+.Border{
+    border: 1px solid white;
+    padding: 20px;
+    background: #f2f3f5;
+}
+.row h5,p{
+    text-align: center;
+}
